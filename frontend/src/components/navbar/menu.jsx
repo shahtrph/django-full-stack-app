@@ -11,7 +11,7 @@ import DashboardIcon from "@mui/icons-material/Dashboard";
 import DashboardCustomizeIcon from "@mui/icons-material/DashboardCustomize";
 import AddIcon from "@mui/icons-material/Add";
 import { Link, useLocation } from "react-router";
-import logo from "../../assets/Logo CBI App.png";
+
 
 export default function Menu() {
   const [open, setOpen] = React.useState(true);
